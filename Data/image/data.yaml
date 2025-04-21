@@ -1,0 +1,13 @@
+path: /Users/aryan/Desktop/AI-Powered Dark Pattern Detection/datasets/image
+train: /Users/aryan/Desktop/AI-Powered Dark Pattern Detection/datasets/image/train/images
+val: /Users/aryan/Desktop/AI-Powered Dark Pattern Detection/datasets/image/valid/images
+test: /Users/aryan/Desktop/AI-Powered Dark Pattern Detection/datasets/image/test/images
+
+names:
+  0: sneaking
+  1: misdirection
+  2: obstruction
+  3: privacy zuckering
+  4: forced continuity
+  5: social proof
+
